@@ -1,4 +1,6 @@
 ### Hi there, I'm Prashanth 
+Check out! [my website](https://about.me/prashi8055), where you can learn more about me <br/>
+This is my [DEVPOST](https://devpost.com/Prashanth0398?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) account, where i share my projects and participations in online and in-person hackathons. 
 
 ## I'm a Student and a Developer!
 - Currently working on Bio-medical Project.
