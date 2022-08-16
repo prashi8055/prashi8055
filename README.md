@@ -3,9 +3,8 @@ Check out! [my website](https://prashi8055.netlify.app/), to learn more about me
 This is my [DEVPOST](https://devpost.com/Prashanth0398?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) account, where i share my projects and participations in online and in-person hackathons. 
 
 ## I'm a Student and a Developer!
-- Currently working on Bio-medical Project.
+- Currently doing my Master's from IISc.
 - My interests range from technology to travel. 
-- 2020 Goals: Contribute more to Open Source projects.
 - Fun fact: I'm a staunch video gamer. 
 
 ## Blogs and Websites, which i follow...
